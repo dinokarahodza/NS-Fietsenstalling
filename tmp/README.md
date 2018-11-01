@@ -1,0 +1,1 @@
+Deze map is er om ervoor te zorgen dat de barcodes gelezen kunnen worden.
